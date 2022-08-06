@@ -1,4 +1,5 @@
 Algoritmo Variables
+
 	// 1. Declarar variables
 	Definir mi_numero Como Entero
 	// 2. Asignar un valor
